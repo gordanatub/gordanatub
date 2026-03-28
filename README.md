@@ -1,5 +1,3 @@
-# gordanatub / Gordana Tubonjic
-
 I'm a software engineering student.
 
 ### 🛠️ Tech Stack
